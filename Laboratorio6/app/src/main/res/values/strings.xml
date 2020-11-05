@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Laboratorio 6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">HOME FRAGMENT</string>
+    <string name="map_fragment">MAP FRAGMENT</string>
+    <string name="statictics_fragment">STATICTICS FRAGMENT</string>
+    <string name="recyclerview">recyclerview</string>
+    <string name="mensaje">mensaje</string>
+    <string name="calorias">calorias</string>
+    <string name="_123">_123</string>
+    <string name="_3_3">_3_3</string>
+    <string name="_200">_200</string>
+    <string name="_500">_500</string>
+    <string name="_5_5">_5_5</string>
+    <string name="_600">_600</string>
+    <string name="km">km</string>
+    <string name="pasos">pasos</string>
+</resources>
